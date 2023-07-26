@@ -1,0 +1,3 @@
+name: BugReport.BackupPolicy
+runtime: dotnet
+description: Bug Report Backup Policy Example
